@@ -131,8 +131,4 @@ Website updated successfully
 
 This project is open source and available under the MIT License.
 
-## Contact
 
-Your Name - [@aakashrawat1910](https://github.com/aakashrawat1910)
-
-Project Link: [https://github.com/aakashrawat1910/Sync-Github-Nginx](https://github.com/aakashrawat1910/Sync-Github-Nginx)
